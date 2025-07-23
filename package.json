@@ -1,8 +1,8 @@
 {
   "name": "albs-frontend",
   "version": "0.0.1",
-  "description": "AlmaLinux build system",
-  "productName": "AlmaLinux Build System",
+  "description": "Oreon build system",
+  "productName": "Oreon Build System",
   "author": "Vyacheslav Potoropin <vpotoropin@almalinux.org>",
   "private": true,
   "scripts": {
